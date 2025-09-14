@@ -39,7 +39,7 @@ def main(start=1, stop=1000000, chunk=10000, workers=None):
     while done_chunks < total_chunks:
         report_queue.get()
         done_chunks += 1
-        print(f"Прогресс: {done_chunks}/{total_chunks} чанков")
+        print(f"Прогресс: {done_chunks}/{total_chunks} порций")
     for p in processes:
         p.join()
 
