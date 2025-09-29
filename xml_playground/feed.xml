@@ -1,0 +1,22 @@
+<?xml версия="1.0" кодировка="utf-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom"><title>SciPost: Последние публикации по искусственному интеллекту</title><link href="https://scipost.org/journals/" rel="alternate"/><link href="https://scipost.org/atom/publications/comp-ai" rel="self"/><id>https://scipost.org/journals/</id><updated>2025-05-28T00:00:00+02:00</updated><author><name>SciPost</name></author><subtitle>SciPost: Последние публикации по искусственному интеллекту</subtitle><entry><title>Байесовское освещение: вывод и разнообразие качества ускоряют генеративные молекулярные модели, Йонас Верхеллен
+</title><link href="https://scipost.org/SciPostChem.4.1.001" rel="alternate"/><updated>2025-05-28T00:00:00+02:00</updated><id>https://scipost.org/SciPostChem.4.1.001</id><summary type="html">SciPost Chem. 4, 001 (2025)
+</summary></entry><entry><title>Условные генеративные модели для дискретизации и индикации фазовых переходов в спиновых системах, Джапнит Сингх, Матиас С. Шойрер, Випул Арора
+</title><link href="https://scipost.org/SciPostPhys.11.2.043" rel="alternate"/><updated>2021-08-30T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhys.11.2.043</id><summary type="html">SciPost Phys. 11, 043 (2021)
+</summary></entry><entry><title>Симметрия встречает ИИ, Габриэла Баренбойм, Йоханнес Хирн, Вероника Санц
+</title><link href="https://scipost.org/SciPostPhys.11.1.014" rel="alternate"/><updated>2021-07-15T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhys.11.1.014</id><summary type="html">SciPost Phys. 11, 014 (2021)
+</summary></entry><entry><title>Машинное обучение и квантовые устройства, Флориан Марквардт
+</title><link href="https://scipost.org/SciPostPhysLectNotes.29" rel="alternate"/><updated>2021-05-31T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhysLectNotes.29</id><summary type="html">Заметки к лекциям по физике SciPost 29 (2021)
+</summary></entry><entry><title>Управляемое изучение нескольких грязных бозонов с переменным числом частиц, Пере Мухал, Алекс Мартинес Мигель, Артур Поллс, Бруно Хулиа-Диас, Себастьяно Пилати
+</title><link href="https://scipost.org/SciPostPhys.10.3.073" rel="alternate"/><updated>2021-03-24T00:00:00+01:00</updated><id>https://scipost.org/SciPostPhys.10.3.073</id><summary type="html">SciPost Phys. 10, 073 (2021)
+</summary></entry><entry><title>Улучшенное моделирование нейронной сети методом Монте-Карло, авторы: Ай-Кай Чен, Мэтью Д. Климек, Максим Перельштейн
+</title><link href="https://scipost.org/SciPostPhys.10.1.023" rel="alternate"/><updated>2021-01-29T00:00:00+01:00</updated><id>https://scipost.org/SciPostPhys.10.1.023</id><summary type="html">SciPost Phys. 10, 023 (2021)
+</summary></entry><entry><title>Подход к интеграции фазового пространства на основе нейронных сетей, Мэтью Д. Климек, Максим Перельштейн
+</title><link href="https://scipost.org/SciPostPhys.9.4.053" rel="alternate"/><updated>2020-10-19T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhys.9.4.053</id><summary type="html">SciPost Phys. 9, 053 (2020)
+</summary></entry><entry><title>Обнаружение нематического порядка в данных STM/STS с помощью искусственного интеллекта, Джереми Б. Гетц, И Чжан, Майкл Дж. Лоулер
+</title><link href="https://scipost.org/SciPostPhys.8.6.087" rel="alternate"/><updated>2020-06-15T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhys.8.6.087</id><summary type="html">SciPost Phys. 8, 087 (2020)
+</summary></entry><entry><title>От сложного к простому: иерархический ландшафт свободной энергии, перенормированный в глубоких нейронных сетях, Хадзимэ Ёсино
+</title><link href="https://scipost.org/SciPostPhysCore.2.2.005" rel="alternate"/><updated>2020-04-15T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhysCore.2.2.005</id><summary type="html">SciPost Phys. Core 2, 005 (2020)
+</summary></entry><entry><title>Самолеты глубокого обучения в условиях неопределенности и не только, Свен Больвег, Мануэль Хаусманн, Грегор Касечка, Мишель Лухманн, Тильман Плен, Дженнифер Томпсон
+</title><link href="https://scipost.org/SciPostPhys.8.1.006" rel="alternate"/><updated>2020-01-16T00:00:00+01:00</updated><id>https://scipost.org/SciPostPhys.8.1.006</id><summary type="html">SciPost Phys. 8, 006 (2020)
+</summary></entry></feed>
